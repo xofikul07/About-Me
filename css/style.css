@@ -135,8 +135,8 @@ header img {
     height: var(--image-height);
     border: var(--image-border-px) solid var(--image-border-color);
     border-radius: 50%;
-    height: 175px;
-    width:174px;
+    height: 180px;
+    width:179px;
 }
 
 header h1 {
