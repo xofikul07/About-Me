@@ -1,20 +1,19 @@
 /* 
 -----------------
-Devloper: Shofikul islam
+https://github.com/ardacarofficial/links-website is open source project.
 -----------------
 */
 
 strong{
-color:white;
+  color:white;
 }
 
 .uib{ margin:35px;
 color:white;
-
 }
 
 .valolagena{ margin:52px;
-color:white;
+  color:white;
 }
 
 
@@ -30,6 +29,9 @@ color:white;
     /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
     --background-color: #000;
     --background-image: url("../img/wallpaper.png");
+
+
+
 
     /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
     --image-border-color: #1f232e;
@@ -133,6 +135,8 @@ header img {
     height: var(--image-height);
     border: var(--image-border-px) solid var(--image-border-color);
     border-radius: 50%;
+    height: 175px;
+    width:174px;
 }
 
 header h1 {
