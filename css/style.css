@@ -31,8 +31,8 @@ strong{
     --font-size: 16px;
 
     /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
-    --background-color: #000;
-    --background-image: url("../img/wallpaper.png");
+    --background-color: #1c214e;
+    
 
     /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
     --image-border-color: #1f232e;
@@ -55,7 +55,7 @@ strong{
     --menu-active-text-color: #8ecae6;
 
     /* You can change the button's background, text color and active color by changing the color codes. */
-    --button-background-color: #1f232e;
+    --button-background-color: #33375a;
     --button-text-color: #fff;
     --button-text-hover-color: #8ecae6;
 
@@ -65,7 +65,7 @@ strong{
     --textarea-link-text-color: #8ecae6;
 
     /* You can change the background, text color and active color of the footer area by changing the color codes. */
-    --footer-background-color: #1f232e;
+    --footer-background-color: #33375a;
     --footer-text-color: #fff;
     --footer-link-text-color: #8ecae6;
 }
